@@ -18,11 +18,11 @@ The released data is provided as a TSV (tab-separated values) text file with the
 
 <p align='center'>Table 1: Columns in TSV files.</p>
 
-| Column   | Description                                                                                               |
-| -------- | --------------------------------------------------------------------------------------------------------- |
-| 1        | Image key. A unique identifier for the image (a hexadecimal number. e.g., 0000d67245642c5f)               |
-| 2        | Visual Genome objects. Three objects detected from the image using a FRCNN model trained on Visual Genome |	
-| 3        | Image labels. Three labels extracted from the image using the Google Cloud Vision API                     |	
+| Column   | Description                                                                                                |
+| -------- | ---------------------------------------------------------------------------------------------------------  |
+| 1        | Image key. A unique identifier for the image (a hexadecimal number. e.g., 0000d67245642c5f).               |
+| 2        | Visual Genome objects. Three objects detected from the image using a FRCNN model trained on Visual Genome. |	
+| 3        | Image labels. Three labels extracted from the image using the Google Cloud Vision API.                     |	
 
 # Downloads
 
